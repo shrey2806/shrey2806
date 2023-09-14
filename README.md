@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shrey Agarwal</h1>
-<h3 align="center">a developer.</h3>
+<h3 align="center">a engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey2806&label=Profile%20views&color=0e75b6&style=flat" alt="shrey2806" /> </p>
 
-- 🔭 I’m currently working on **building tech at Olik.**
+- 🔭 I spend my time **building tech at Olik.**
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Spring, MongoDB,**
+- 💬 Ask me about **Spring, MongoDB, Product Development**
 
 - 📫 How to reach me **shrey.ag2806@gmail.com**
 
