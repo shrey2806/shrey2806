@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey2806&label=Profile%20views&color=0e75b6&style=flat" alt="shrey2806" /> </p>
 
-- 🔭 I spend my time **building tech at Olik.**
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 💬 Ask me about **Spring, MongoDB, Product Development**
+- 🔭 I handle tech at **Olik.**
 
 - 📫 How to reach me **shrey.ag2806@gmail.com**
 
