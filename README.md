@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey2806&label=Profile%20views&color=0e75b6&style=flat" alt="shrey2806" /> </p>
 
-- 🔭 I handle tech at **Olik.**
-
-- 📫 How to reach me **shrey.ag2806@gmail.com**
+- 🔭 I'm Shrey currently working at Olik as a Senior Software Engineer with 4+ years of experience working in various domains like full stack and backend.
+  
+- 📫 reach me at  **shrey.ag2806@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
